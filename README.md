@@ -2,6 +2,9 @@
 
 This repository accompanies my YouTube video, "A React Todo List Front End - Coding Tutorials by Umar Khan"
 
+To use this repository, clone it into your code editor and run "npm install" in the terminal (e.g., in VS Code integrated terminal).
+
+
 Link to video:
 https://www.youtube.com/watch?v=OidIJEOPSxw
 
