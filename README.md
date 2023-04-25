@@ -1,3 +1,14 @@
+# Create a Todo List using React (Front End)
+
+This repository accompanies my YouTube video, "A React Todo List Front End - Coding Tutorials by Umar Khan"
+
+Link to video:
+https://www.youtube.com/watch?v=OidIJEOPSxw
+
+Link to YouTube Channel:
+https://www.youtube.com/@codestarrunner
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
